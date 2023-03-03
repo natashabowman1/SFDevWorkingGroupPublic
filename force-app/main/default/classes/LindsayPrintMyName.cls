@@ -3,6 +3,6 @@ public with sharing class LindsayPrintMyName {
         String name = 'Lindsay';
         String printedSentence = 'Hi my name is: ' + name;
         System.debug(printedSentence);
-        return printedSentence;
+        //return printedSentence;
     }
 }
